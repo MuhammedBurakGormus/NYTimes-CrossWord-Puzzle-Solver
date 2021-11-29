@@ -1,6 +1,6 @@
 # NYTimes-CrossWord-Puzzle-Solver
 
-The purpose of the project is to find correct answers for the NY Times crossword puzzle by implementing AI. Solving a crossword puzzle is a two-step process that is generating a candidate answers list corresponding to each clue and choosing the most suitable one among them. \
+The purpose of the project is to find correct answers for the NY Times crossword puzzle by implementing AI. Solving a crossword puzzle is a two-step process that is generating a candidate answers list corresponding to each clue and choosing the most suitable one among them. 
 
 In order to create a candidate answers list, the sources;
 - Wordnet 
